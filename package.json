@@ -18,12 +18,12 @@
     "zazu",
     "theme"
   ],
-  "author": "Daniel Bayerlein",
+  "author": "Timm Heuss",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danielbayerlein/zazu-simple-theme/issues"
+    "url": "https://github.com/heussd/zazu-simple-and-dense-theme/issues"
   },
-  "homepage": "https://github.com/danielbayerlein/zazu-simple-theme#readme",
+  "homepage": "https://github.com/heussd/zazu-simple-and-dense-theme#readme",
   "devDependencies": {
     "husky": "^2.3.0",
     "postcss-cli": "^6.1.2",

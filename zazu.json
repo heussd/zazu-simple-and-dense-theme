@@ -1,6 +1,6 @@
 {
-  "name": "zazu-simple-theme",
+  "name": "zazu-simple-and-dense-theme",
   "version": "1.0.0",
-  "description": "A simple theme for Zazu",
+  "description": "A simple and dense theme for Zazu",
   "stylesheet": "dist/main.css"
 }
