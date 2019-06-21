@@ -22,7 +22,7 @@ body.playbook #install h2,
 body {
   color: #394043;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
-  font-size: 20px;
+  font-size: 12px;
   margin: 0;
 }
 
@@ -45,7 +45,7 @@ body {
   background-color: transparent;
   border: 0;
   color: #394043;
-  font-size: 36px;
+  font-size: 20px;
   font-weight: 200;
   outline: none;
   padding: 0;
@@ -65,6 +65,7 @@ body {
       -ms-flex-direction: row;
           flex-direction: row;
   margin-top: 10px;
+  font-size: 10px;
 }
 #zazu div.results ul {
   border-top: 1px solid rgba(0, 0, 0, .05);
@@ -82,19 +83,19 @@ body {
   -webkit-app-region: no-drag;
   border-bottom: 1px solid rgba(0, 0, 0, .05);
   cursor: pointer;
-  height: 60px;
-  padding: 5px;
+  height: 30px;
+  padding: 3px;
   width: 100%;
 }
 #zazu div.results ul li .icon {
   float: left;
-  height: 35px;
-  line-height: 35px;
+  height: 15px;
+  line-height: 25px;
   margin-bottom: 7px;
   margin-right: 10px;
   margin-top: 7px;
   text-align: center;
-  width: 35px;
+  width: 15px;
 }
 #zazu div.results ul li h2,
         #zazu div.results ul li h3 {
@@ -106,14 +107,14 @@ body {
 }
 #zazu div.results ul li h2 {
   color: #888d95;
-  font-size: 24px;
+  font-size: 10px;
 }
 #zazu div.results ul li h2:last-child {
   line-height: 48px;
 }
 #zazu div.results ul li h3 {
   color: #afb4c0;
-  font-size: 12px;
+  font-size: 8px;
 }
 #zazu div.results ul li.active,
         #zazu div.results ul li:hover {
